@@ -7,10 +7,10 @@ List of beer restaurants near given address.
 2. Create a txt file, copy your API key into this file then save as "Google_api_key.txt"
 ## Step 2: Run script  
 1. Open terminal, run ```cd ~ && git clone https://github.com/hoangvux116/Nearby-search```
-2. Create a virtual environment:
+2. Create a virtual environment:\
 ```cd Nearby-search```  
 ```virtualenv -p python3 venv```
-3. Activate this venv and install requirement packages.  
+3. Activate this venv and install requirement packages\
 ```source venv/bin/activate```  
 ```pip install -r requirements.txt```
 4. Run script
