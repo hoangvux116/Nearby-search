@@ -1,8 +1,7 @@
 # Nearby-search
 List of beer restaurants near given address.
 
-# How to run ?
-Following these step to run script
+# How to run
 ## Step 1: Create Google_api_key.txt file
 1. Create a Google Map API key, follow guilines from [Google Docs](https://developers.google.com/places/web-service/get-api-key)
 2. Create a txt file, copy your API key into this file then save as "Google_api_key.txt"
